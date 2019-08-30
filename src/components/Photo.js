@@ -17,9 +17,10 @@ function Photo (props) {
     `
 
     const P = styled.p `
-    font-family: 'Lexend Peta', sans-serif;
-    font-size: 1rem;
+    font-family: 'Economica', sans-serif;
+    font-size: 1.4rem;
     margin: auto;
+    padding: 5px;
     `
 
     return(
